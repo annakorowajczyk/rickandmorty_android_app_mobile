@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RickAndMorty</string>
+    <string name="character_name">Nazwa postaci</string>
+    <string name="failure">Błąd w załadowaniu listy postaci</string>
+    <string name="gender">Gender:</string>
+    <string name="status">Status:</string>
+    <string name="origin">Origin:</string>
+    <string name="current_loc">Current location:</string>
+</resources>
